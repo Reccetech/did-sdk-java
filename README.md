@@ -1,3 +1,4 @@
+# This SDK currently supports an older version of the DID Hedera method and does not currently support v1 of the [DID Hedera Method](https://github.com/hashgraph/did-method). The SDK should primarily be used for reference purposes.
 
 # Hedera™ Hashgraph DID - Java SDK
 
